@@ -1,4 +1,4 @@
-# learn_environment
+# study_learn_environment
 学习中的一些各种环境问题
 * 链接: https://pan.baidu.com/s/1URWg41KfpkMXYx7SESTzZQ 提取码: 61vi
 ## android 编译好的环境 
