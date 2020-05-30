@@ -7,8 +7,8 @@
 * android 10.0  ubuntu19.10 (展开213g左右）
 * android 9编译 pixel 和android10未编译环境  ubuntu19.10 (展开300g左右）
 * android8 pixel pixel xl编译完成环境       ubuntu19.10 (展开250g左右）
-* android9.0未编译源码和10.0未编译源码环境     ubuntu19.10 (270g左右）
-* android9.0 ART虚拟机脱壳调试环境和10.0未编译源码环境     ubuntu19.10 (400g左右）
+* android9.0 未编译源码和10.0未编译源码环境     ubuntu19.10 (270g左右）
+* android9.0 frida ART虚拟机调试环境和10.0未编译源码环境     ubuntu19.10 (400g左右）
 # 一些效果图片
 ![](./img/1.png)
 ![](./img/2.png)
