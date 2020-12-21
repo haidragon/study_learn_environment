@@ -56,5 +56,5 @@
 ![](./img/3.png)
 ![](./img/4.png)
 ![](./img/5.png) 
-# 由于容易被和谐，提取码联系作者，vx2207344074,备注(各种编译环境).
+# 由于容易被和谐，提取码联系作者，vx2207344074,备注(各种学习环境).
 # 教程 请看 https://github.com/haidragon/study_Android_Mchange
