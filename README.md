@@ -32,7 +32,9 @@
 * Ubuntu amd32 位 20.04 双虚拟机内核调试环境 
 * arm64 模拟器内核调试环境（eclipse调试）
 * arm64 模拟器内核调试环境（vscode调试）
+### windows 内核
 * windows 10            双虚拟机内核调试环境
+### XNU 内核
 * macOS                 双虚拟机内核调试环境
 ## macOS sdk
 * macOS sdk 10.14
