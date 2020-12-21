@@ -60,4 +60,4 @@
 ![](./img/7.png)
 ![](./img/8.png) 
 # 由于容易被和谐，提取码联系作者，vx2207344074,备注(各种学习环境).
-# 教程 请看 https://github.com/haidragon/study_Android_Mchange
+# 了解视频教程请看 https://github.com/haidragon/haidragon_study
