@@ -9,6 +9,7 @@
 * android8 pixel pixel xl编译完成环境                  ubuntu19.10 (展开250g左右）
 * android9.0 未编译源码和10.0未编译源码环境               ubuntu19.10 (展开270g左右）
 * android9.0 frida ART虚拟机调试环境和10.0未编译源码环境  ubuntu19.10 (展开400g左右）
+* Ubuntu 64 位 19.10 android 8 pixel pixel xl art主动调用脱壳 (展开400g左右）
 ## pwn相关
 * Ubuntu 64 位 20.04pwn环境 (展开30g左右）
 * Ubuntu 64 位 18.04pwn环境 (展开30g左右）
