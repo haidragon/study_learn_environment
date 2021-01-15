@@ -38,6 +38,11 @@
 * macOS                 双虚拟机内核调试环境
 ## macOS sdk
 * macOS sdk 10.14
+## macOS 系统
+* macOS 10.11_10.15_11.1 (展开120g左右)
+* macOS 10.12 (展开30g左右)
+* macOS 10.13 (展开30g左右)
+* macOS 10.14 (展开30g左右)
 ## ios sdk
 * iPhoneOS9.3.sdk.zip
 * iPhoneOS10.3.sdk.zip
@@ -62,5 +67,9 @@
 ![](./img/6.png)
 ![](./img/7.png)
 ![](./img/8.png) 
+![](./img/10.11_10.15_11.1.png) 
+![](./img/10.12.png) 
+![](./img/10.13.png) 
+![](./img/10.14.png) 
 # 由于容易被和谐，提取码联系作者，vx2207344074,备注(各种学习环境).
 # 了解视频教程请看 https://github.com/haidragon/haidragon_study
