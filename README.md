@@ -1,6 +1,13 @@
 # study_learn_environment
 学习中的一些各种环境问题
 * 链接: https://pan.baidu.com/s/1ix3XQsIRQvdM_1prZerTQA  
+## [域环境](https://github.com/haidragon/study_learn_environment/blob/master/yu/readme.md)
+```
+win7 32位
+win7 64位
+win10 64位
+winserver 2019
+```
 ## android 相关环境 
 * android 4.4.4 ubuntu19.10 (展开80g左右）
 * android 8.0   ubuntu19.10 (展开180g左右）
