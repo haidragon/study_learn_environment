@@ -1,8 +1,13 @@
- Windows 7
- Windows 7 x64
- Windows Server 2019   里面所有用户密码都是 LIUDRAGON123456!@# 
- Windows 10 x64
-
-添加dns ip
+![](./1.png)
+![](./2.png)
+![](./3.png)
+![](./4.png)
+![](./5.png)
+![](./6.png)
+![](./7.png)
+![](./8.png)
+![](./9.png)
+![](./10.png)
+![](./11.png)
 
  
